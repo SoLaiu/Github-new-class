@@ -2,7 +2,7 @@
 *****
 ### Websites vs Web Applications
 
-websites and web application are two differnt things. websites contain infomation that is intend for the user to view and learn while web application are more for show and personalized.
+websites and web application are two differnt things, websites contain infomation that is intend for the user to view and learn while web application are more for show and personalized.
 ******
 ### VS Code & Extensions
 vs code has extensions you can download tools, debuggers, and languages. Extensions can help you be more productive like Running code snippets and files quickly

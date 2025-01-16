@@ -15,4 +15,4 @@ version control tracks the history of changes as people and teams collaborate on
 
 ### Markdown & Documentation
 
-markdown is a language that convert plain text that can be converted into a "HTML", markdown is moslty used to write "README" 
+markdown is a language that convert plain text that can be converted into a "HTML". markdown is moslty used to write "README" 

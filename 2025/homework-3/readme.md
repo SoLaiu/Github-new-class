@@ -1,7 +1,7 @@
 ## Assignemnt 3
 
 ### Weekly Recap
- this week i learned about 
+ this week i learned about how to use basic operators
 ### Live link
 
 https://solaiu.github.io/Github-new-class/2025/homework-3/index.html

@@ -1,7 +1,7 @@
 ## Assignemnt 3
 
 ### Weekly Recap
- this week i lea
+ this week i learned about 
 ### Live link
 
 https://solaiu.github.io/Github-new-class/2025/homework-3/index.html

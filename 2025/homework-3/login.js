@@ -1,4 +1,4 @@
-// I use const because it should not changed
+// I use const because it should not be changed
 const password = "(d0nteatTheScript)";
 
 const ifthepasswordstartsWithSpace = password.startsWith(" ");

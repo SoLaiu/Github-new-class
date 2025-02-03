@@ -1,6 +1,6 @@
-// i chose const because the price of the item is fixed
+// i choose const because the price of the item is fixed
 const itemPrice = 40.99;
-// i chose const because the sales tax is fixed puls the sales tax is fixed and discountthreshold is fixed. i don't need to be changed.
+// i choose const because the sales tax is fixed puls the sales tax is fixed and discountthreshold is fixed. i don't need to be changed.
 const salesTax = 0.07;
 const discountRate = 0.10;
 const discountThreshold = 50;

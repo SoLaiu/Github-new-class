@@ -1,15 +1,10 @@
-//I did choose let because the radius is  5 and can be reassigned to a new value
-let radius = 5;
+const radius = 5; // I use const make the radius equal to 5
 
-//Area equation:Area = PI * r^2
+let area = 0; // declare area
+let perimeter = 0;
+    
+area = Math.PI * Math.pow(radius, 2); // calculate the area
+perimeter = 2 * Math.PI * radius; // calculate the perimeter
 
-let area = Math.PI * Math.pow(radius, 2);
-// i used let  because the radius is 5 and can be reassigned later in the code
-
-console.log("Area of circle", area);   
-
-
-// i used let  because the radius is 5 and can be reassigned later in the code
-let perimeter = 2 * Math.PI * radius;
-
-console.log("Perimeter of circle", perimeter);
+console.log("Area of circle", area); // log the area  
+console.log("Perimeter of circle", perimeter); // log the perimeter

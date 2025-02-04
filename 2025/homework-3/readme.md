@@ -1,7 +1,7 @@
-## Assignemnt 3
+## Assignment 3
 
 ### Weekly Recap
- this week i learned about how to use basic operators,variables,and Object Wrappers. i learned what different ways they could be used. 
+ This week we learned about how to use basic operators, variables, and  strings commands. I learned what different ways they could be used. 
 ### Live link
 
 [Home](https://solaiu.github.io/Github-new-class/2025/homework-3/index.html)

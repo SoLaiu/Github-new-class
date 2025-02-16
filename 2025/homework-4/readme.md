@@ -8,7 +8,7 @@ DOM also known as Document Object Mode Allows JavaScript to manipulate webpage e
 
 ## Arrays & Loops
 ***
-Arrays store collections of data, while loops help us process that data by repeating actions until a condition is met.
+Arrays store collections of data, while loops help us process that data by repeating actions until a condition is met.flf
 
 
 ### Live links

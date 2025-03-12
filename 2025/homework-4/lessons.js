@@ -8,7 +8,6 @@ const instruments = [
 ];
 console.log("instruments:", instruments);
 
-console.log("instruments:", instruments);
 const ul = document.querySelector('ul');
 
 for (let i = 0; i < instruments.length; i++) {
